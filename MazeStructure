@@ -1,0 +1,15 @@
+MazeGame/
+├── src/
+│   ├── main.c
+│   ├── player.c
+│   ├── raycasting.c
+│   ├── map.c
+│   └── utils.c
+├── include/
+│   ├── player.h
+│   ├── raycasting.h
+│   ├── map.h
+│   └── utils.h
+├── assets/
+│   └── textures/
+├── Makefile
